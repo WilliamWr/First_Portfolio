@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  File.open 'public/portfo.html'
+  File.open(File.join("public", "portfo.html"));
 end
