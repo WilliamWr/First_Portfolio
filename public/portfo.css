@@ -9,6 +9,7 @@ body {
     border-radius: 50%;
   height: 275px;
     width: %;
+    align-self: center;
 }
 
 div {
@@ -48,7 +49,7 @@ h2 {
 h3 {
   float: right;
     position: relative;
-  top: -57em;
+  top: -48em;
   margin-right:  -23em;
   overflow: auto;
 
